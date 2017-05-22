@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.sony.myappteam">
 
+    <!--20170523 by Muj-->
+    <!--akses koneksi internet-->
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
