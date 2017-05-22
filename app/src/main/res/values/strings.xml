@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sesi9_6314079</string>
+    <string name="username">Username :</string>
+    <string name="password">Password :</string>
+    <string name="isikan_username">isikan username</string>
+    <string name="isikan_pass">isikan password</string>
+    <string name="log_in">LOG-IN</string>
+</resources>
