@@ -45,15 +45,15 @@ public class Getter {
             @Override
             protected void onPreExecute() {
                 super.onPreExecute();
-//                progressDialog = ProgressDialog.show(context, "Logging in...","Harap Tunggu...", false, false);
+                progressDialog = ProgressDialog.show(context, "Logging in...","Harap Tunggu...", false, false);
 
                 //20170523 by Muj
                 //atur secara terpisah
-                progressDialog = new ProgressDialog(context);
-                progressDialog.setMessage("Loading...");
-                progressDialog.setIndeterminate(false);
-                progressDialog.setCancelable(true);
-                progressDialog.show();
+//                progressDialog = new ProgressDialog(context);
+//                progressDialog.setMessage("Loading...");
+//                progressDialog.setIndeterminate(false);
+//                progressDialog.setCancelable(true);
+//                progressDialog.show();
 
 
             }
